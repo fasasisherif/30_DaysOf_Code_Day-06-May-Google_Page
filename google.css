@@ -1,0 +1,100 @@
+body{
+		margin:auto;
+		padding:auto;
+		font-family:"Baloo Da 2";
+		}
+.one{
+		display:flex;
+		flex-direction:row-reverse;
+		padding:10px;
+		}
+.name{
+		background-color:pink;
+		padding:5px 15px;
+		border-radius:50%;
+		font-size:large;
+		}
+.two{
+		text-align:center;
+		padding:10px;
+		font-size:70px;
+		font-weight:bold;
+		margin-top:-3pc;
+		}
+.g1{color:blue;}
+.o1{color:red;}
+.o2{color:orange;}
+.g2{color:blue;	}
+.l{color:green;}
+.e2{color:red;}		
+.three{
+		margin-top:-2pc;
+		positio:relative;
+		}
+input{
+		display:block;
+		margin:auto;
+		width:90%;
+		padding:10px;
+		outline:none;
+		border-radius:35px;
+		border:1px solid #dbdbdb;
+		}		
+.type{
+		padding:5px;
+		}		
+.four{
+		display:flex;
+		justify-content:space-evenly;
+		flex-wrap:wrap;
+		font-size:14px;
+		}
+.five{
+		position:absolute;
+		width:100%;
+		bottom:0px;
+		background-color:#f0f0f0 ;
+		display:flex;
+		justify-content:space-evenly;
+		flex-wrap:nowrap;
+		border-top:1px solid #dbdbdb;
+		baceface-visibility:none;
+		font-size:14px;
+		}		
+.aaa,.bbb,.ccc,.ddd,.eee{
+		padding:10px;
+		}
+.a,.b,.c,.d,.e1,.e3{
+		padding:10px;
+		text-align:center;
+		}
+.fab{
+		font-size:35px;
+		}
+.fas{
+		font-size:22px;
+		}
+.fa-google-play{
+		color:lightgreen;
+		}	
+.fa-google-drive{
+		color:orange;
+		}	
+.fa-youtube-square{
+		color:red;
+		}
+.fa-twitter-square{
+		color:blue;
+		}
+.mic{
+		position: absolute;
+		margin-top:-2.2pc;
+		left:90%;
+		width:20px;
+		}
+.search{
+		position:absolute;
+		margin-top:.5pc;
+		left:5%;
+		width:30px;
+		}
